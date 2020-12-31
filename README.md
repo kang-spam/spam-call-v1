@@ -4,12 +4,11 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
 $ python3 -m pip install requests
-$ python3 -m pip install bs4
-$ git clone https://github.com/hekelpro/ssh
-$ cd ssh
-$ python ssh.py
+$ git clone https://github.com/kang-spam/spam-call-v1
+$ cd spam-call-v1
+$ python start.py
 ```
 # THANKS TO
 ```
-🖥️ ALL MEMBER XIUZCODE 🖥️
+🖥️ IOX SMILE HAXOR TEAM 🖥️
 ```
